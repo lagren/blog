@@ -1,10 +1,8 @@
 ---
 author: Eirik Tenold
-date: 2011-09-04T03:48:00Z
-modified_time: 2011-09-04T03:48:13.086+02:00
+title: How to use a global ignore file in Mercurial
 tags:
 - Mercurial
-title: How to use a global ignore file in Mercurial
 ---
 
 I got tired of manually adding common elements to the .hgignore-file, so after some quick research the 

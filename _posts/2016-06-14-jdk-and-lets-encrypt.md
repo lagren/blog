@@ -1,8 +1,8 @@
-+++
-date = "2016-06-14T11:18:07+02:00"
-title = "How to get Java to accept Let's Encrypt certificates"
-tags = ["Let's Encrypt", "TLS", "PKI", "Java", "JRE", "JDK"]
-+++
+---
+author: Eirik Tenold
+title: "How to get Java to accept Let's Encrypt certificates"
+tags: ["Let's Encrypt", "TLS", "PKI", "Java", "JRE", "JDK"]
+---
 
 If you try to connect to a website/webservice using HTTPS and get the following error message:
 

@@ -1,11 +1,9 @@
 ---
 author: Eirik Tenold
-date: 2011-12-01T17:00:00Z
-modified_time: 2011-12-01T17:06:18.414+01:00
+title: How to trigger a Jenkins build from command-line
 tags:
 - Java
 - Jenkins
-title: How to trigger a Jenkins build from command-line
 ---
 
 To trigger a Jenkins build from command-line is pretty simple. In *nix, you can use wget to trigger the build 

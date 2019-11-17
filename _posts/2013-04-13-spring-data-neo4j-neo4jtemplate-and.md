@@ -1,13 +1,11 @@
 ---
 author: Eirik Tenold
-date: 2013-04-13T08:07:00Z
-modified_time: 2013-04-13T09:35:14.236+02:00
+title: Spring Data Neo4j, Neo4jTemplate, and Cypher queries
 tags:
 - Spring Data
 - Neo4j
 - Spring Data Neo4j
 - Graph database
-title: Spring Data Neo4j, Neo4jTemplate, and Cypher queries
 ---
 
 Yesterday, I tried to get [Spring Data Neo4j](http://www.springsource.org/spring-data/neo4j)'s 

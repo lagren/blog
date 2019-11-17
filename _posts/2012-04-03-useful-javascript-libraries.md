@@ -1,11 +1,9 @@
 ---
 author: Eirik Tenold
-date: 2012-04-03T13:22:00Z
-modified_time: 2012-04-03T13:26:47.269+02:00
+title: Useful JavaScript libraries
 tags:
 - JavaScript
 - CSS
-title: Useful JavaScript libraries
 ---
 
 Some useful JavaScript libraries

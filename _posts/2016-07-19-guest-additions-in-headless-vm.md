@@ -1,4 +1,5 @@
 ---
+author: Eirik Tenold
 title: How to install Guest Additions in a headless VM (VirtualBox)
 tags: ["VirtualBox"]
 ---

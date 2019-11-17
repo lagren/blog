@@ -1,10 +1,8 @@
 ---
 author: Eirik Tenold
-date: 2011-07-02T19:46:00Z
-modified_time: 2011-07-02T20:04:01.381+02:00
+title: How to change default browser on Samsung Galaxy Tab
 tags:
 - Galaxy Tab
-title: How to change default browser on Samsung Galaxy Tab
 ---
 
 I wanted to change the default browser on my Galaxy Tab to Firefox, but couldn't find a setting for it (in an intuitive 

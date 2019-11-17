@@ -1,8 +1,8 @@
-+++
-date = "2016-06-19T12:18:32+02:00"
-title = "Extension pack must be reinstalled when VirtualBox is upgraded"
-tags = ["VirtualBox"]
-+++
+---
+author: Eirik Tenold
+title: "Extension pack must be reinstalled when VirtualBox is upgraded"
+tags: ["VirtualBox"]
+---
 
 Today I upgraded VirtualBox from 4.3 to 5.0 using apt. The upgrade worked almost seamlessly with any upgrade problems. But
 when I restarted the VMs then I was unable to connect to the VM using remote desktop. After some searching I discovered

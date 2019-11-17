@@ -1,13 +1,11 @@
 ---
 author: Eirik Tenold
-date: 2011-07-08T22:57:00Z
-modified_time: 2011-07-08T23:14:39.696+02:00
+title: Web harvesting and GUI testing with WebDriver
 tags:
 - Java
 - Selenium
 - Firefox
 - WebDriver
-title: Web harvesting and GUI testing with WebDriver
 ---
 
 For a spare time project I've been working on lately, I had to web harvest (also known as screen scraping) a 

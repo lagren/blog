@@ -1,12 +1,10 @@
 ---
 author: Eirik Tenold
-date: 2011-12-01T17:08:00Z
-modified_time: 2011-12-01T17:13:51.673+01:00
+title: How to trigger a build in Jenkins for each commit in Mercurial
 tags:
 - Java
 - Mercurial
 - Jenkins
-title: How to trigger a build in Jenkins for each commit in Mercurial
 ---
 
 Just add the following to the [hgrc file](http://www.selenic.com/mercurial/hgrc.5.html) in the project's 

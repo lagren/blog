@@ -1,13 +1,11 @@
 ---
 author: Eirik Tenold
-date: 2011-09-04T04:09:00Z
-modified_time: 2011-09-04T04:10:10.151+02:00
+title: 'GlassFish v3: Picky about where the libraries in an EAR are located'
 tags:
 - GlassFish
 - Java
 - Java EE
 - Maven
-title: 'GlassFish v3: Picky about where the libraries in an EAR are located'
 ---
 
 While trying to deploy an EAR-application on GlassFish v3, I got an error about missing class files. The mentioned 

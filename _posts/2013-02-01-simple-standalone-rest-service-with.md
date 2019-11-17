@@ -1,12 +1,10 @@
 ---
 author: Eirik Tenold
-date: 2013-02-01T16:17:00Z
-modified_time: 2013-02-01T16:17:18.278+01:00
+title: Simple standalone REST service with Apache CXF
 tags:
 - REST
 - Apache CXF
 - Maven
-title: Simple standalone REST service with Apache CXF
 ---
 
 I wanted to create a simple REST service with Apache CXF. The simple steps:

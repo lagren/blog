@@ -1,12 +1,10 @@
 ---
 author: Eirik Tenold
-date: 2014-05-23T10:12:00Z
-modified_time: 2014-05-23T10:12:32.679+02:00
+title: Java 8 and Play Framework 2.2.x
 tags:
 - Java
 - Java 8
 - Play Framework
-title: Java 8 and Play Framework 2.2.x
 ---
 
 In order for [Play Framework](http://www.playframework.com/) to work with Java 8, some changes has to be done:

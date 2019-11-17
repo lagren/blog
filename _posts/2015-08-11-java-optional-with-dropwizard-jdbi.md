@@ -1,11 +1,10 @@
 ---
 author: Eirik Tenold
-date: 2015-08-11T15:35:00Z
+title: How to use java.util.Optional with Dropwizard and JDBI
 tags:
 - Dropwizard
 - JDBI
 - Java 8
-title: How to use java.util.Optional with Dropwizard and JDBI
 ---
 
 In order to use Java 8's java.util.Optional together with Dropwizard and JDBI, first include the Java 8 build of JDBI module:

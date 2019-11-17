@@ -1,10 +1,8 @@
 ---
 author: Eirik Tenold
-date: 2011-09-04T03:59:00Z
-modified_time: 2011-09-04T03:59:34.648+02:00
+title: killall in Windows
 tags:
 - Windows
-title: killall in Windows
 ---
 
 Recently I ran into a serious annoyance while using a Windows computer at work. Something triggered a 

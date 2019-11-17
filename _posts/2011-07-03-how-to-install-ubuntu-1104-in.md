@@ -1,11 +1,9 @@
 ---
 author: Eirik Tenold
-date: 2011-07-03T20:51:00Z
-modified_time: 2011-07-03T20:51:13.934+02:00
+title: How to install Ubuntu 11.04 in VirtualBox
 tags:
 - VirtualBox
 - Ubuntu
-title: How to install Ubuntu 11.04 in VirtualBox
 ---
 
 I wanted to have a clean environment where I could try different things and decided to install 

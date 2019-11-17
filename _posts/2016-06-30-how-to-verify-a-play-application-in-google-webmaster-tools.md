@@ -1,9 +1,8 @@
-+++
-date = "2016-06-30T11:38:51+02:00"
-title = "How to verify a Play Framework application in Google's Search Console"
-tags = ["Play Framework", "Google Search Console"]
-
-+++
+---
+author: Eirik Tenold
+title: "How to verify a Play Framework application in Google's Search Console"
+tags: ["Play Framework", "Google Search Console"]
+---
 
 In order to verify your website in Google's Search Console (previously 
 called Webmaster Tools) you have to host a specific file at a specified 

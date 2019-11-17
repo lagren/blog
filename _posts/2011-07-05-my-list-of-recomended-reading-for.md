@@ -1,11 +1,9 @@
 ---
 author: Eirik Tenold
-date: 2011-07-05T01:52:00Z
-modified_time: 2011-07-05T01:52:35.237+02:00
+title: My list of recomended reading for software developers
 tags:
 - Java
 - Books
-title: My list of recomended reading for software developers
 ---
 
 Here is a list of books and online resources that I would recommend to fellow developers.
