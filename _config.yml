@@ -2,6 +2,7 @@ title: blog.relativt.net
 description: Eirik's public note to self
 show_downloads: false
 theme: jekyll-theme-hacker
+google_analytics: UA-65597520-1
 collections:
   posts:
     output: true
